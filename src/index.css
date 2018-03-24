@@ -50,10 +50,11 @@ body {
 }
 
 .Employeelist{
-  border: 4px #e10014 solid;
+  border: 4px #f68b9e solid;
   margin: 0.1em;
   display: flex;
   flex-direction: row;
+  cursor: pointer;
 }
 
 .Headerc{
@@ -70,10 +71,7 @@ body {
   padding: 0.2em;
 }
 
-.Dataemployee{
-  border: 4px gray solid;
-  height: 2em;
-}
+
 
 .anglebracket{
   width: 1.5em;
@@ -121,4 +119,41 @@ padding-left: 1em;
 
 .Containeremployeepage{
   border: 4px #f298f0 solid;
+}
+
+.Dataemployee{
+  border: 4px gray solid;
+  display: flex;
+  flex-direction: column;
+}
+
+.dataphoto{
+  padding: 1em;
+}
+.calloffice{
+  border: 1px solid #7f7f7f;
+  padding: 1em;
+
+}
+.callmovile{
+  border: 1px solid #7f7f7f;
+  padding: 1em;
+
+}
+.sms{
+  border: 1px solid #7f7f7f;
+  padding: 1em;
+
+}
+
+.email{
+  border: 1px solid #7f7f7f;
+  padding: 1em;
+
+}
+
+.Contdata{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
 }

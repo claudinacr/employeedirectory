@@ -1,56 +1,61 @@
-[
-{
-  "photo": "https://i.imgur.com/ulvWqny.png",
-  "name": "Carl Haro",
-  "position": "Administrativo de obra",
-  "Office": "",
-  "Mobile": "",
-  "sms": "",
-  "email": ""
+[{
+    "id": 1,
+    "photo": "https://i.imgur.com/ulvWqny.png",
+    "name": "Carl Haro",
+    "position": "Administrativo de obra",
+    "Office": "123-233-3333",
+    "Mobile": "111-222-333",
+    "sms": "111-222-333",
+    "email": "@"
   },
   {
+    "id": 2,
     "photo": "https://i.imgur.com/Dyu26LO.png",
     "name": "Paul Hervia",
     "position": "Director científico",
-    "Office": "",
-    "Mobile": "",
-    "sms": "",
-    "email": ""
+    "Office": "123-233-3333",
+    "Mobile": "111-222-333",
+    "sms": "111-222-333",
+    "email": "@"
   },
   {
+    "id": 3,
     "photo": "https://i.imgur.com/U2iO8YA.png",
     "name": "Amelia Earhart",
     "position": "Gerente de producto",
-    "Office": "",
-    "Mobile": "",
-    "sms": "",
-    "email": ""
+    "Office": "123-233-3333",
+    "Mobile": "111-222-333",
+    "sms": "111-222-333",
+    "email": "@"
   },
   {
+    "id": 4,
     "photo": "https://i.imgur.com/32GxSyy.png",
     "name": "Tale Ibarra",
     "position": "Director de recursos humanos",
-    "Office": "",
-    "Mobile": "",
-    "sms": "",
-    "email": ""
+    "Office": "123-233-3333",
+    "Mobile": "111-222-333",
+    "sms": "111-222-333",
+    "email": "@"
   },
   {
+    "id": 5,
     "photo": "https://i.imgur.com/uNfkCAi.png",
     "name": "Pen Jiménez",
     "position": "Gerente",
-    "Office": "",
-    "Mobile": "",
-    "sms": "",
-    "email": ""
+    "Office": "123-233-3333",
+    "Mobile": "111-222-333",
+    "sms": "111-222-333",
+    "email": "@"
   },
   {
+    "id": 6,
     "photo": "https://i.imgur.com/gpmh56Q.png",
     "name": "Ana Bolena",
     "position": "Gerente general",
-    "Office": "",
-    "Mobile": "",
-    "sms": "",
-    "email": ""
+    "Office": "123-233-3333",
+    "Mobile": "111-222-333",
+    "sms": "111-222-333",
+    "email": "@"
   }
 ]
