@@ -1,0 +1,124 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.Appe{
+  border: 4px black solid;
+  width: 50em;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  flex-direction: row;
+  padding: 0.1em;
+  margin-top: 1em;
+}
+
+.HomePage{
+  width: 25em;
+  border: 4px #fbaa00 solid;
+  padding: 0.1em;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.EmployeePage{
+  width: 24em;
+  border: 4px #8f5825 solid;
+  display: flex;
+  flex-direction: column;
+  padding: 0.2em;
+
+}
+
+.Header{
+  border: 4px #749fe7 solid;
+  margin: 0.1em;
+  padding: 0.5em;
+  text-align: center;
+  font-weight: bold;
+  font-size: 1.2em;
+  font-family: 'Roboto', sans-serif;
+}
+
+.Searchbar{
+  border: 4px #248000 solid;
+  margin: 0.1em;
+  padding: 0.2em;
+}
+
+.Employeelist{
+  border: 4px #e10014 solid;
+  margin: 0.1em;
+  display: flex;
+  flex-direction: row;
+}
+
+.Headerc{
+  border: 4px #749fe7 solid;
+  text-align: center;
+  font-weight: bold;
+  font-size: 1.2em;
+  font-family: 'Roboto', sans-serif;
+  margin-bottom: 0.2em;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  height: 1.9em;
+  padding: 0.2em;
+}
+
+.Dataemployee{
+  border: 4px gray solid;
+  height: 2em;
+}
+
+.anglebracket{
+  width: 1.5em;
+}
+
+.photo{
+  width: 3em;
+}
+
+
+
+.namecol{
+  display: flex;
+  flex-direction: column;
+  padding-left: 1em;
+  padding: 1em;
+}
+
+.jobname{
+  font-weight: bold;
+}
+
+.jobposition{
+  color: gray;
+  font-family: 'Lobster', cursive;
+}
+
+.employeephoto{
+  padding: 0.5em;
+}
+
+input{
+  width: 22.55em;
+  height: 2em;
+  border-radius: 2px 2px 2px 2px;
+-moz-border-radius: 2px 2px 2px 2px;
+-webkit-border-radius: 2px 2px 2px 2px;
+border: 1px solid #7f7f7f;
+font-size: 1em;
+color: #7f7f7f;
+font-weight: bold;
+padding-left: 1em;
+
+}
+
+.Containeremployeepage{
+  border: 4px #f298f0 solid;
+}
