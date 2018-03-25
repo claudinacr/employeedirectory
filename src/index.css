@@ -21,7 +21,7 @@ body {
   padding: 0.1em;
   display: flex;
   flex-direction: column;
-  justify-content: center;
+  justify-content: flex-start;
 }
 
 .EmployeePage{
@@ -90,11 +90,11 @@ body {
   padding: 1em;
 }
 
-.jobname{
+.jobname, .datanamee{
   font-weight: bold;
 }
 
-.jobposition{
+.jobposition, .datajobb{
   color: gray;
   font-family: 'Lobster', cursive;
 }
@@ -130,14 +130,25 @@ padding-left: 1em;
 .dataphoto{
   padding: 1em;
 }
-.calloffice{
+.calloffice, .callmovile, .sms, .email{
+  border: 1px solid #7f7f7f;
+  padding: 1em;
+  display: flex;
+  flex-direction: column;
+
+
+}
+
+
+
+.callmovile{
   border: 1px solid #7f7f7f;
   padding: 1em;
 
 }
-.callmovile{
-  border: 1px solid #7f7f7f;
-  padding: 1em;
+
+.callmovile:nth-last-child(){
+  color: gray !important;
 
 }
 .sms{
@@ -156,4 +167,12 @@ padding-left: 1em;
   display: flex;
   flex-direction: row;
   align-items: center;
+}
+
+.Dataemployee{
+  display: none;
+}
+
+.color{
+  color: gray;
 }
