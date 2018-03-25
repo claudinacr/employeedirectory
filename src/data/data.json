@@ -3,59 +3,59 @@
     "photo": "https://i.imgur.com/ulvWqny.png",
     "name": "Carl Haro",
     "position": "Administrativo de obra",
-    "Office": "123-233-3333",
-    "Mobile": "111-222-333",
-    "sms": "111-222-333",
-    "email": "@"
+    "Office": "841-369-7970",
+    "Mobile": "618-821-3112",
+    "sms": "750-230-7722",
+    "email": "carlharo@gmail.com"
   },
   {
     "id": 2,
     "photo": "https://i.imgur.com/Dyu26LO.png",
     "name": "Paul Hervia",
     "position": "Director científico",
-    "Office": "123-233-3333",
-    "Mobile": "111-222-333",
-    "sms": "111-222-333",
-    "email": "@"
+    "Office": "720-083-7601",
+    "Mobile": "852-424-6303",
+    "sms": "831-311-1539",
+    "email": "paulhervia@gmail.com"
   },
   {
     "id": 3,
     "photo": "https://i.imgur.com/U2iO8YA.png",
     "name": "Amelia Earhart",
     "position": "Gerente de producto",
-    "Office": "123-233-3333",
-    "Mobile": "111-222-333",
-    "sms": "111-222-333",
-    "email": "@"
+    "Office": "743-189-5220",
+    "Mobile": "818-751-5027",
+    "sms": "712-427-5074",
+    "email": "ameliaearhart@gmail.com"
   },
   {
     "id": 4,
     "photo": "https://i.imgur.com/32GxSyy.png",
     "name": "Tale Ibarra",
     "position": "Director de recursos humanos",
-    "Office": "123-233-3333",
-    "Mobile": "111-222-333",
-    "sms": "111-222-333",
-    "email": "@"
+    "Office": "898-364-6935",
+    "Mobile": "633-399-5490",
+    "sms": "882-491-772",
+    "email": "taleibarra@gmail.com"
   },
   {
     "id": 5,
     "photo": "https://i.imgur.com/uNfkCAi.png",
     "name": "Pen Jiménez",
     "position": "Gerente",
-    "Office": "123-233-3333",
-    "Mobile": "111-222-333",
-    "sms": "111-222-333",
-    "email": "@"
+    "Office": "836-839-9559",
+    "Mobile": "880-539-6668",
+    "sms": "795-079-1048",
+    "email": "penjimenez@gmail.com"
   },
   {
     "id": 6,
     "photo": "https://i.imgur.com/gpmh56Q.png",
     "name": "Ana Bolena",
     "position": "Gerente general",
-    "Office": "123-233-3333",
-    "Mobile": "111-222-333",
-    "sms": "111-222-333",
-    "email": "@"
+    "Office": "625-371-9775",
+    "Mobile": "722-601-5699",
+    "sms": "670-930-9002",
+    "email": "anabolena@gmail.com"
   }
 ]
