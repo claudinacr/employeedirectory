@@ -3,7 +3,7 @@ import data from './../../../../data/data';
 import Employeelist from './EmployeeList';
 const Searchbar = () =>(
   <div className='Searchbar'>
-    <input type="text" onChange={this.Search =()=>{
+    <input type="text" placeholder='Ingrese un nombre ...'onChange={this.Search =()=>{
         let valueIn = document.querySelector('input').value;
         let regex = new RegExp(valueIn, 'i');
         for (let i = 0; i < document.getElementsByClassName('Employeelist').length; i++) {
